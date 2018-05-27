@@ -1,0 +1,6 @@
+5
+elementarz 9
+pies 6
+herbata 10
+okno 6
+telefon 12
